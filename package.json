@@ -1,0 +1,9 @@
+{
+  "creator": {
+    "version": "3.7.3"
+  },
+  "name": "ColorRecognize",
+  "uuid": "19ad7e95-c99b-4cd4-ac32-e8c2db861a3c",
+  "version": "3.6.2",
+  "description": "颜色识别小游戏"
+}
